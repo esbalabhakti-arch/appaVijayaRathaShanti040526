@@ -6,7 +6,7 @@ const ALBUM = {
 
   // ---- GitHub repo settings ----
   github: {
-    owner: "esbalabhakti",
+    owner: "esbalabhakti-arch",
     repo: "appaVijayaRathaShanti040526",
     branch: "main"
   },

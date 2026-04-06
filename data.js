@@ -11,7 +11,7 @@ const ALBUM_DATA = {
   subtitle:    "Celebrating the 77th Year Milestone",
   honoree:     "Shri Tiruvarur Subramaniam Thiyagasundaram",
   date:        "5th April, 2026",
-  venue:       "S R Sharma, D3, Keerthivasan Garden Phase-1, Arulmurugan Nandavanam Nagar, Nanmangalam, Chennai-600117, Kanchipuram, TN",
+  venue:       "Shri S R Sharma Residence, Chennai, TN",
   blessing:    "ஸ்ரீ மஹா பெரியவா சரணம் | மதுரை வீரன் துணை | முத்து மாரியம்மன் அருள்",
 
   // Path to the invitation image (place in media/photos/)
